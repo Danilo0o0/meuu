@@ -1,0 +1,9 @@
+<pessoa>
+  <nome>João da Silva</nome>
+  <endereco>
+    <rua>Rua das Flores, 123</rua>
+    <cidade>São Paulo</cidade>
+    <estado>SP</estado>
+  </endereco>
+  <telefone>(11) 99999-8888</telefone>
+</pessoa>
